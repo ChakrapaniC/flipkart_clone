@@ -20,6 +20,8 @@ This project is a clone of the popular e-commerce website Flipkart, called "Webs
 * React.js: A popular JavaScript library for building user interfaces
 * Redux: A state management library for managing application-level data.
 * React-Router Dom
+* Tailwind CSS - for styling the website.
+* formik - Formik is a small group of React components and hooks for building forms in Reac
 
 **Back-end:** 
 * Node.js: A JavaScript runtime environment
